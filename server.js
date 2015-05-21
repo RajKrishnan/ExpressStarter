@@ -29,6 +29,7 @@ nconf.env().file({ file: 'settings.json' });
 * EVERYAUTH AUTHENTICATION
 * -------------------------------------------------------------------------------------------------
 * allows users to log in and register using OAuth services
+* trying something
 **/
 
 everyauth.debug = true;
